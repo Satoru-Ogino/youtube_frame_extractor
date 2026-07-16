@@ -1,0 +1,28 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Project logs
+logs/
+*.log
+
+# Extractor outputs / temp files
+temp_*.png
+test_output/
+
+# OS specific files
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Project specifications
+仕様書.md
+
